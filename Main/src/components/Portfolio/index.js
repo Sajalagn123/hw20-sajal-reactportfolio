@@ -25,21 +25,21 @@ function Portfolio() {
     },
     {
       name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      description: 'Website where users can generate a password for themselves and set different crieteria such as excluding specific characters like numbers.',
+      link: "https://sajalagn123.github.io/hw3-js-passwordgen-sajal/",
+      repo: "https://github.com/Sajalagn123/hw3-js-passwordgen-sajal"
     },
     {
       name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      description: 'Application allowing users to partake in a quiz that prompts them with various questions related to coding.',
+      link: "https://sajalagn123.github.io/hw4-codingquiz-SajalAgn/",
+      repo: "https://github.com/Sajalagn123/hw4-codingquiz-SajalAgn"
     },
     {
       name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      description: 'Website where users can make posts related to technology and web development. A user can also comment on another user\'s post',
+      link: "https://sajals-tech-blog.herokuapp.com/",
+      repo: "https://github.com/Sajalagn123/hw14techblog"
     },
   ]);
 
