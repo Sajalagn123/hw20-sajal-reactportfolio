@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Aladin', cursive;
+  font-family: sans-serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
@@ -186,7 +186,7 @@ header img {
 
 nav {
   position: relative;
-  font-family: 'Aladin', cursive;
+  font-family: fansong;
   font-size: 2.5rem;
   margin: 30px 20px;
 }
@@ -356,7 +356,7 @@ textarea {
 }
 
 .navActive {
-  color: var(--secondary);
+  color: #31d127;
   cursor: default;
   text-shadow: 3px 3px 15px rgba(255,255,255, .5);
 }
